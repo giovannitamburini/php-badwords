@@ -1,0 +1,13 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+textarea {
+    display: block;
+    padding: 5px;
+    margin-bottom: 5px;
+}
